@@ -1,8 +1,8 @@
-import TopBar from "@/app/components/TopBar";
-import TopicCategories from "@/app/components/TopicCategories";
-import TopicCard from "@/app/components/TopicCard";
-import TodaysTopic from "@/app/components/TodaysTopic";
-import AddTopic from "@/app/components/AddTopic";
+import TopBar from "@/components/TopBar";
+import TopicCategories from "@/components/TopicCategories";
+import TopicCard from "@/components/TopicCard";
+import TodaysTopic from "@/components/TodaysTopic";
+import AddTopic from "@/components/AddTopic";
 
 export default function Feed() {
     return (

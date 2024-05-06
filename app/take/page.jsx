@@ -1,7 +1,7 @@
-import TopBar from "@/app/components/TopBar";
-import Tag from "@/app/components/Tag";
-import MainTake from "@/app/components/MainTake";
-import OppTake from "@/app/components/OppTake";
+import TopBar from "@/components/TopBar";
+import Tag from "@/components/Tag";
+import MainTake from "@/components/MainTake";
+import OppTake from "@/components/OppTake";
 
 export default function Take() {
   return (

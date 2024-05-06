@@ -1,4 +1,5 @@
-import TopBar from "@/app/components/TopBar";
+import TopBar from "@/components/TopBar";
+import Profile from "@/components/Profile";
 
 export default function Take() {
     return (
