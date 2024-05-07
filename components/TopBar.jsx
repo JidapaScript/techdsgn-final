@@ -1,6 +1,6 @@
 export default function TopBar(){
     return (
-        <top className="flex justify-between fixed bottom-0 w-full mx-20 my-12">
+        <div className="flex justify-between fixed bottom-0 w-full mx-20 my-12">
             <a href="/profile" className="profile-sm"> 
             <img className="profile-img-sm" src="/profiles/profile_sm.png" alt="profile" /> 
             </a>
@@ -10,6 +10,6 @@ export default function TopBar(){
             <a href="#" className="search-bar"> 
             <img className="search" src="/icons/search.svg" alt="search" /> 
             </a>
-        </top>
+        </div>
     );
 }
